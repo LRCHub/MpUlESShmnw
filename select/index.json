@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "D-tecnoLife",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-12T00:26:45.546774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "D-tecnoLife",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_D-tecnoLife_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D-tecnoLife",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/02_D-tecnoLife_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D-Tecnolife",
+      "artist": "Uverworld",
+      "has_synced": true,
+      "path": "select/03_D-Tecnolife_Uverworld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "D-tecnoLife (TV size)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_D-tecnoLife_(TV_size)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "D-tecnoLife(Album Version)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/05_D-tecnoLife(Album_Version)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "D-tecnoLife",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/06_D-tecnoLife_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "D‐tecnoLife",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/07_D‐tecnoLife_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "D‐tecnoLife (Album Version)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/08_D‐tecnoLife_(Album_Version)_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "D-tecnoLife",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_D-tecnoLife_UVERworld.txt"
+    }
+  ]
+}
